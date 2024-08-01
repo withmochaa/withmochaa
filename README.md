@@ -26,12 +26,11 @@
   </div>
 <br/>
 <div align="center">
-💻 LAB : Sungkyunkwan University Medical Big Data Laboratory 💻
+🐘 Club : Big Data Club BOAZ 🐘
   </div>
   <br/>
-  <br/>
 <div align="center">
-🐘 Club : Big Data Club BOAZ 🐘
+💻 LAB : Sungkyunkwan University Medical Big Data Laboratory 💻
   </div>
   <br/>
   <div align="center">
