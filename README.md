@@ -29,6 +29,11 @@
 💻 LAB : Sungkyunkwan University Medical Big Data Laboratory 💻
   </div>
   <br/>
+  <br/>
+<div align="center">
+🐘 Club : Big Data Club BOAZ 🐘
+  </div>
+  <br/>
   <div align="center">
 🥇 The grand prize of the 17th Sejong University Creative Competition in 2024 🥇
   </div>
