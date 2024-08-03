@@ -77,7 +77,7 @@
 <br/>
 <h3 align="center">📚Interest 📚</h3>
 <div align="center">
-  🤖NLP/Time Series/DATA/AI Model/Transformer/DNN/RNN/CNN/ML/DL/NLP/LLM🤖
+  🤖ML/DL/DA/NLP/CV🤖
 </div>
 
 <div>
