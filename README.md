@@ -77,7 +77,7 @@
 <br/>
 <h3 align="center">📚Interest 📚</h3>
 <div align="center">
-  🤖ML/DL/DA/NLP/CV🤖
+  🤖Artificial Intelligence🤖
 </div>
 
 <div>
