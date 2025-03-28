@@ -80,10 +80,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmochaa&layout=donut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmochaa&layout=donut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=withmochaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=withmochaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
@@ -91,6 +91,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=withmochaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF" width="70%" alt="GitHub Streak" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=withmochaa&theme=react-dark&hide_border=true&line=58A6FF&color=58A6FF" width="90%" alt="Activity Graph" />
+
 </div>
 
 
