@@ -52,12 +52,20 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     <img src="https://img.shields.io/badge/NumPy-4d77cf?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
     <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-    <!-- Newly Added -->
     <img src="https://img.shields.io/badge/WandB-FFBE00?style=for-the-badge&logo=WandB&logoColor=black" alt="WandB" />
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP (Google Cloud Platform)" />
     <img src="https://img.shields.io/badge/HuggingFace-F9E3AF?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Transformers" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+    <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT (OpenAI)" />
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA (NVIDIA)" />
+    <img src="https://img.shields.io/badge/Fastai-00ADEF?style=for-the-badge&logo=fastai&logoColor=white" alt="Fastai" />
+    <img src="https://img.shields.io/badge/JAX-007ACC?style=for-the-badge&logo=jax&logoColor=white" alt="JAX" />
+    <img src="https://img.shields.io/badge/Caffe-A8B9CC?style=for-the-badge&logo=caffe&logoColor=black" alt="Caffe" />
   </p>
 </details>
+
+
 
 <details open>
   <summary><b>🛠️ Development Tools</b></summary>
