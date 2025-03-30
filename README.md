@@ -105,7 +105,7 @@
   <!-- GitHub Achievements -->
   <img src="https://github-profile-trophy.vercel.app/?username=withmochaa&theme=nord&margin-w=15" alt="GitHub Trophies" />
 
-  <!-- Contributions and Repositories -->
+
   
 
 </div>
