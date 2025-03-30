@@ -101,7 +101,15 @@
 
   <!-- GitHub Contributions Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=withmochaa&theme=react-dark&hide_border=true&line=58A6FF&color=58A6FF" width="90%" alt="Activity Graph" />
+
+  <!-- GitHub Achievements -->
+  <img src="https://github-profile-trophy.vercel.app/?username=withmochaa&theme=nord&margin-w=15" alt="GitHub Trophies" />
+
+  <!-- Contributions and Repositories -->
+  
+
 </div>
+
 
 
 ---
