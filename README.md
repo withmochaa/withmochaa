@@ -104,15 +104,16 @@
     </tr>
   </table>
   
-  <!-- GitHub Streak Stats -->
+ 
   <img src="https://streak-stats.demolab.com?user=withmochaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF" width="70%" alt="GitHub Streak" />
+  
 
-  <!-- GitHub Contributions Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=withmochaa&theme=react-dark&hide_border=true&line=58A6FF&color=58A6FF" width="90%" alt="Activity Graph" />
 
   <!-- GitHub Achievements -->
   <img src="https://github-profile-trophy.vercel.app/?username=withmochaa&theme=nord&margin-w=15" alt="GitHub Trophies" />
 </div>
+
 
 ---
 
