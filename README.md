@@ -2,12 +2,15 @@
   
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kang%20Min%20Kim&fontSize=40&animation=fadeIn&fontAlignY=38)
-  ## 🧠 AI Researcher & Developer
 
-  🏫 **Artificial Intelligence Student at Sejong University**  
-  🔬 Researcher at Sungkyunkwan University Medical Big Data Laboratory  
-  🐘 Member of Big Data Club BOAZ  
-  🏆 Grand Prize Winner, 17th Sejong University Creative Competition (2024)
+
+
+## 🧠 AI Researcher & Developer
+
+🏫 **Artificial Intelligence Student at Sejong University**  
+🔬 Researcher at Sungkyunkwan University Medical Big Data Laboratory  
+🐘 Member of Big Data Club BOAZ  
+🏆 Grand Prize Winner, 17th Sejong University Creative Competition (2024)
   
 ### 🔥 Research Interests 🔥
   
@@ -91,10 +94,12 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmochaa&layout=donut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true" alt="Top Languages" />
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=withmochaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=withmochaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" />
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmochaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -107,15 +112,11 @@
 
   <!-- GitHub Achievements -->
   <img src="https://github-profile-trophy.vercel.app/?username=withmochaa&theme=nord&margin-w=15" alt="GitHub Trophies" />
-
-
-  
-
 </div>
 
-
-
 ---
+
+
 
 <div align="center">
   <h2>📫 Connect With Me</h2>
