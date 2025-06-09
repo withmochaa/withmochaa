@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT (OpenAI)" />
     <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA (NVIDIA)" />
     <img src="https://img.shields.io/badge/Fastai-00ADEF?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fastai" />
-    <img src="https://img.shields.io/badge/JAX-007ACC?style=for-the-badge&logo=jax&logoColor=white" alt="JAX" />
+      <img src="https://img.shields.io/badge/JAX-007ACC?style=for-the-badge&logo=jax&logoColor=white" alt="GCP" />
     <img src="https://img.shields.io/badge/Caffe-A8B9CC?style=for-the-badge&logo=caffe&logoColor=black" alt="Caffe" />
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   </p>
