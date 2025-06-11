@@ -7,10 +7,11 @@
 
 ## 🧠 AI Researcher & Developer
 
-🏫 **Artificial Intelligence Student at Sejong University**  
-🔬 Researcher at Sungkyunkwan University Medical Big Data Laboratory  
-🐘 Member of Big Data Club BOAZ  
+🏫 Artificial Intelligence Student at Sejong University
+🔬 Researcher at Sungkyunkwan University Medical Big Data Laboratory
+🐘 Member of Big Data Club BOAZ
 🏆 Grand Prize Winner, 17th Sejong University Creative Competition (2024)
+🥇 Excellence Award Winner, 2024 SW Talent Festival Outstanding Works Competition (2024)
   
 ### 🔥 Research Interests 🔥
   
