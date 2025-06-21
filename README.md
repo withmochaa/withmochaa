@@ -9,23 +9,23 @@
   <table>
     <tbody><tr>
       <td align="center">🏫</td>
-      <td><strong>Artificial Intelligence Student at Sejong University</strong></td>
+      <td><strong>Artificial&nbsp;Intelligence&nbsp;Student&nbsp;at&nbsp;Sejong&nbsp;University</strong></td>
     </tr>
     <tr>
       <td align="center">🔬</td>
-      <td><strong>Researcher at Sungkyunkwan University Medical Big Data Laboratory</strong></td>
+      <td><strong>Researcher&nbsp;at&nbsp;Sungkyunkwan&nbsp;University&nbsp;Medical&nbsp;Big&nbsp;Data&nbsp;Laboratory</strong></td>
     </tr>
     <tr>
       <td align="center">🐘</td>
-      <td><strong>Member of Big Data Club BOAZ</strong></td>
+      <td><strong>Member&nbsp;of&nbsp;Big&nbsp;Data&nbsp;Club&nbsp;BOAZ</strong></td>
     </tr>
     <tr>
       <td align="center">🏆</td>
-      <td><strong>Grand Prize Winner, 17th Sejong University Creative Competition (2024)</strong></td>
+      <td><strong>Grand&nbsp;Prize&nbsp;Winner,&nbsp;17th&nbsp;Sejong&nbsp;University&nbsp;Creative&nbsp;Competition&nbsp;(2024)</strong></td>
     </tr>
     <tr>
       <td align="center">🖥️</td>
-      <td><strong>Lead AI Engineer for SSG Project (Excellence Award Winner, 2024 SW Talent Festival Outstanding Works Competition)</strong></td>
+      <td><strong>Lead&nbsp;AI&nbsp;Engineer&nbsp;for&nbsp;SSG&nbsp;Project&nbsp;(Excellence&nbsp;Award&nbsp;Winner,&nbsp;2024&nbsp;SW&nbsp;Talent&nbsp;Festival&nbsp;Outstanding&nbsp;Works&nbsp;Competition)</strong></td>
     </tr>
   </tbody></table>
 </div>
@@ -35,16 +35,16 @@
  
 <table>
   <tbody><tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="40"><br>Time Series</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5110/5110773.png" width="40"><br>Computer Vision</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" width="40"><br>Machine Learning</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="40"><br>Deep Learning</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="40"><br>Time&nbsp;Series</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5110/5110773.png" width="40"><br>Computer&nbsp;Vision</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" width="40"><br>Machine&nbsp;Learning</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="40"><br>Deep&nbsp;Learning</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="40"><br>Optimization</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920281.png" width="40"><br>Natural Language</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="40"><br>Generative AI</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="40"><br>Reinforcement Learning</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920281.png" width="40"><br>Natural&nbsp;Language</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="40"><br>Generative&nbsp;AI</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="40"><br>Reinforcement&nbsp;Learning</td>
   </tr>
 </tbody></table>
 
@@ -55,7 +55,7 @@
 <table width="100%">
   <tbody>
     <tr>
-      <td style="padding-left: 10px; font-weight: bold;">👨‍💻 Programming Languages</td>
+      <td style="padding-left: 10px; font-weight: bold;">👨‍💻&nbsp;Programming&nbsp;Languages</td>
       <td align="left" style="padding: 5px;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -65,7 +65,7 @@
       </td>
     </tr>
     <tr>
-      <td style="padding-left: 10px; font-weight: bold;">🧠 AI &amp; Machine Learning</td>
+      <td style="padding-left: 10px; font-weight: bold;">🧠&nbsp;AI&nbsp;&amp;&nbsp;Machine&nbsp;Learning</td>
       <td align="left" style="padding: 5px;">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
@@ -82,7 +82,7 @@
       </td>
     </tr>
     <tr>
-      <td style="padding-left: 10px; font-weight: bold;">🛠️ Development Tools</td>
+      <td style="padding-left: 10px; font-weight: bold;">🛠️&nbsp;Development&nbsp;Tools</td>
       <td align="left" style="padding: 5px;">
         <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
