@@ -1,6 +1,5 @@
 <div align="center">
-  
-  <!--Header-->
+ 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kang%20Min%20Kim&fontSize=40&animation=fadeIn&fontAlignY=38)
 
 
@@ -8,7 +7,7 @@
 <div align="center">
   <h2>🧠 AI Researcher & Developer</h2>
   <table>
-    <tr>
+    <tbody><tr>
       <td align="center">🏫</td>
       <td><strong>Artificial Intelligence Student at Sejong University</strong></td>
     </tr>
@@ -28,14 +27,14 @@
       <td align="center">🖥️</td>
       <td><strong>Lead AI Engineer for SSG Project (Excellence Award Winner, 2024 SW Talent Festival Outstanding Works Competition)</strong></td>
     </tr>
-  </table>
+  </tbody></table>
 </div>
 
 ### 🔥 Research Interests 🔥
 
-  
+ 
 <table>
-  <tr>
+  <tbody><tr>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="40"><br>Time Series</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5110/5110773.png" width="40"><br>Computer Vision</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" width="40"><br>Machine Learning</td>
@@ -47,7 +46,7 @@
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="40"><br>Generative AI</td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="40"><br>Reinforcement Learning</td>
   </tr>
-</table>
+</tbody></table>
 
 ---
 <div align="center">
@@ -56,7 +55,7 @@
 <table width="100%">
   <tbody>
     <tr>
-      <td width="25%" style="padding-left: 10px; font-weight: bold;">👨‍💻 Programming Languages</td>
+      <td style="padding-left: 10px; font-weight: bold;">👨‍💻 Programming Languages</td>
       <td align="left" style="padding: 5px;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -101,28 +100,23 @@
 
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
-  
+ 
   <table>
-    <tr>
+    <tbody><tr>
       <td>
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=withmochaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=withmochaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats">
       </td>
       <td>
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmochaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmochaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages">
       </td>
     </tr>
-  </table>
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=withmochaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF" width="70%" alt="GitHub Streak" />
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=withmochaa&theme=react-dark&hide_border=true&line=58A6FF&color=58A6FF" width="90%" alt="Activity Graph" />
+  </tbody></table>
+ 
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=withmochaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF" width="70%" alt="GitHub Streak">
+ 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=withmochaa&theme=react-dark&hide_border=true&line=58A6FF&color=58A6FF" width="90%" alt="Activity Graph">
 
-  <!-- GitHub Achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=withmochaa&theme=nord&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=withmochaa&theme=nord&margin-w=15" alt="GitHub Trophies">
 </div>
 
 
@@ -136,14 +130,14 @@
   <h2>📫 Connect With Me</h2>
   <p>
   <a href="mailto:dryeye3011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://proximal-gargoyle-8a2.notion.site/AI-engineer-with-technology-and-inclusive-leadership-1060017662cb80be8d00f5896d6e1687?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=withmochaa&style=flat-square&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=withmochaa&style=flat-square&color=blue" alt="Profile Views">
 <details>
   <summary><b>✨ Fun Fact</b></summary>
   <br>
