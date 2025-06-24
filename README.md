@@ -8,7 +8,7 @@
   <h2>🤖 AI Researchers & Developers</h2>
   
   <p>
-    <strong>수상 경력으로 검증받은 주니어 AI 엔지니어</strong>로서, Cloud(GCP) 환경에서 데이터 전처리부터 모델 서빙까지<br>
+    <strong>교내외에서 검증받은 주니어 AI 엔지니어</strong>로서, Cloud(GCP) 환경에서 데이터 전처리부터 모델 서빙까지<br>
     <strong>End-to-End MLOps 파이프라인</strong>을 설계하고 구축한 경험이 있습니다.<br><br>
     자연어 처리와 컴퓨터 비전 분야에서 실제 비즈니스 문제를 해결하는 AI 솔루션 개발에 열정을 가지고 있으며,<br>
     특히 <strong>보이스피싱 탐지</strong>, <strong>RAG 기반 챗봇</strong>, <strong>퍼스널컬러 진단</strong> 등<br>
