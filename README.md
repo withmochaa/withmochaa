@@ -34,7 +34,7 @@
       </tr>
       <tr>
         <td align="center" width="70">🔬</td>
-        <td align="left" width="500"><strong>성균관대학교 Medical Big Data LAB 인턴 연구원</strong></td>
+        <td align="left" width="500"><strong>성균관대학교 Medical Big Data LAB 인턴</strong></td>
       </tr>
       <tr>
         <td align="center" width="70">🐘</td>
@@ -131,7 +131,7 @@
 <div align="center">
   <h2>🚀 Featured Projects</h2>
 
-### 🔊 SSGCam: 실시간 보이스피싱 & 딥보이스 탐지 시스템
+### 🔊 SSGCam: 실시간 보이스피싱 & 딥보이스 탐지 애플리케이션
 **2024.03 - 2024.06 | AI 리드 엔지니어 & 프로젝트 리더**
 
 <table width="100%">
@@ -145,11 +145,12 @@
   </tr>
   <tr>
     <td align="center"><strong>☁️ MLOps</strong></td>
-    <td>Vertex AI를 활용한 전체 자동화 파이프라인 구축</td>
+    <td>GCP Vertex AI를 활용한 전체 자동화 파이프라인 구축</td>
   </tr>
   <tr>
     <td align="center"><strong>🏆 성과</strong></td>
-    <td><strong>F1-score 0.91</strong> 달성, <strong>SW 인재 페스티벌 최우수상</strong> 수상</td>
+    <td><strong>F1-score 0.91</strong> 달성, <strong>창의설계경진대회 대상 수상</strong>, <strong>SW 인재 페스티벌 최우수상 수상</strong></td>
+
   </tr>
 </table>
 
