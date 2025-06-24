@@ -155,7 +155,7 @@
 </table>
 
 ### 🤖 외국인 유학생을 위한 RAG 기반 AI 챗봇
-**2024.12 | AI 엔지니어**
+**2024.12 | AI 리드 엔지니어**
 
 <table width="100%">
   <tr>
@@ -173,7 +173,7 @@
 </table>
 
 ### 👗 퍼스널컬러 진단 & 상의 추천 시스템
-**2024.11 - 2024.12 | AI 엔지니어**
+**2024.11 - 2024.12 | AI 리드 엔지니어**
 
 <table width="100%">
   <tr>
@@ -182,7 +182,7 @@
   </tr>
   <tr>
     <td align="center"><strong>🧠 딥러닝</strong></td>
-    <td>VGG16 Transfer Learning 적용한 퍼스널컬러 분류 모델</td>
+    <td>VGG16에 Transfer Learning 적용한 퍼스널컬러 분류 모델</td>
   </tr>
   <tr>
     <td align="center"><strong>📊 성과</strong></td>
