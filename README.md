@@ -1,54 +1,222 @@
 <div align="center">
- 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kang%20Min%20Kim&fontSize=40&animation=fadeIn&fontAlignY=38)
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kang%20Min%20Kim&fontSize=40&animation=fadeIn&fontAlignY=38)
 
-
-
-<div align="center">
-  <h2>🧠 AI Researcher & Developer</h2>
-  <table>
-    <tbody><tr>
-      <td align="center">🏫</td>
-      <td><strong>Artificial&nbsp;Intelligence&nbsp;Student&nbsp;at&nbsp;Sejong&nbsp;University</strong></td>
-    </tr>
-    <tr>
-      <td align="center">🔬</td>
-      <td><strong>Researcher&nbsp;at&nbsp;Sungkyunkwan&nbsp;University&nbsp;Medical&nbsp;Big&nbsp;Data&nbsp;Laboratory</strong></td>
-    </tr>
-    <tr>
-      <td align="center">🐘</td>
-      <td><strong>Member&nbsp;of&nbsp;Big&nbsp;Data&nbsp;Club&nbsp;BOAZ</strong></td>
-    </tr>
-    <tr>
-      <td align="center">🏆</td>
-      <td><strong>Grand&nbsp;Prize&nbsp;Winner,&nbsp;17th&nbsp;Sejong&nbsp;University&nbsp;Creative&nbsp;Competition&nbsp;(2024)</strong></td>
-    </tr>
-    <tr>
-      <td align="center">🖥️</td>
-      <td><strong>Lead&nbsp;AI&nbsp;Engineer&nbsp;for&nbsp;SSG&nbsp;Project&nbsp;(Excellence&nbsp;Award&nbsp;Winner,&nbsp;2024&nbsp;SW&nbsp;Talent&nbsp;Festival&nbsp;Outstanding&nbsp;Works&nbsp;Competition)</strong></td>
-    </tr>
-  </tbody></table>
 </div>
 
-### 🔥 Research Interests 🔥
-
- 
-<table>
-  <tbody><tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="40"><br>Time&nbsp;Series</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5110/5110773.png" width="40"><br>Computer&nbsp;Vision</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" width="40"><br>Machine&nbsp;Learning</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="40"><br>Deep&nbsp;Learning</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="40"><br>Optimization</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920281.png" width="40"><br>Natural&nbsp;Language</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="40"><br>Generative&nbsp;AI</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="40"><br>Reinforcement&nbsp;Learning</td>
-  </tr>
-</tbody></table>
+<div align="center">
+  <h2>🤖 AI Researchers & Developers</h2>
+  
+  <p>
+    <strong>수상 경력으로 검증받은 주니어 AI 엔지니어</strong>로서, Cloud(GCP) 환경에서 데이터 전처리부터 모델 서빙까지<br>
+    <strong>End-to-End MLOps 파이프라인</strong>을 설계하고 구축한 경험이 있습니다.<br><br>
+    자연어 처리와 컴퓨터 비전 분야에서 실제 비즈니스 문제를 해결하는 AI 솔루션 개발에 열정을 가지고 있으며,<br>
+    특히 <strong>보이스피싱 탐지</strong>, <strong>RAG 기반 챗봇</strong>, <strong>퍼스널컬러 진단</strong> 등<br>
+    실생활에 직접적인 도움을 주는 AI 서비스 개발에 전문성을 보유하고 있습니다.
+  </p>
+  
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td align="center" width="70">🏫</td>
+        <td align="left" width="500"><strong>세종대학교 인공지능학과 졸업</strong></td>
+      </tr>
+      <tr>
+        <td align="center" width="70">🔬</td>
+        <td align="left" width="500"><strong>성균관대학교 Medical Big Data LAB 인턴 연구원</strong></td>
+      </tr>
+      <tr>
+        <td align="center" width="70">🐘</td>
+        <td align="left" width="500"><strong>연세대학교 빅데이터 연합동아리 BOAZ 대외협력팀장</strong></td>
+      </tr>
+      <tr>
+        <td align="center" width="70">👨‍🏫</td>
+        <td align="left" width="500"><strong>시립 서울 청소년센터 서울 AI Maker 단장</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
+
+<div align="center">
+  <h2>🏆Accomplishments & Awards</h2>
+  
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td align="center" width="100">🥇</td>
+        <td align="left" width="600"><strong>2024 SW 인재 페스티벌 최우수상 - [프로젝트 수상]</strong></td>
+        <td align="left" width="300"><em>정보통신기획평가원장상</em></td>
+      </tr>
+      <tr>
+        <td align="center" width="100">🥇</td>
+        <td align="left" width="600"><strong>제17회 창의설계경진대회 대상 - [개인 수상]</strong></td>
+        <td align="left" width="300"><em>세종대학교 인공지능융합대학장</em></td>
+      </tr>
+      <tr>
+        <td align="center" width="100">🏅</td>
+        <td align="left" width="600"><strong>제11회 세종대학교 SW-AI 해커톤 장려상 - [개인수상]</strong></td>
+        <td align="left" width="300"><em>세종대학교 SW중심대학사업단</em></td>
+      </tr>
+      <tr>
+        <td align="center" width="100">📜</td>
+        <td align="left" width="600"><strong>KT AICE Associate - [자격증]</strong></td>
+        <td align="left" width="300"><em>2025.04 취득</em></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>🔬 Research Interests</h2>
+  
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td align="center" width="200">
+          <img src="https://cdn-icons-png.flaticon.com/512/2920/2920326.png" width="50"><br>
+          <strong>Time Series</strong>
+        </td>
+        <td align="center" width="200">
+          <img src="https://cdn-icons-png.flaticon.com/512/5110/5110773.png" width="50"><br>
+          <strong>Computer Vision</strong>
+        </td>
+        <td align="center" width="200">
+          <img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" width="50"><br>
+          <strong>Machine Learning</strong>
+        </td>
+        <td align="center" width="200">
+          <img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="50"><br>
+          <strong>Deep Learning</strong>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="50"><br>
+          <strong>Optimization</strong>
+        </td>
+        <td align="center">
+          <img src="https://cdn-icons-png.flaticon.com/512/2920/2920281.png" width="50"><br>
+          <strong>Natural Language</strong>
+        </td>
+        <td align="center">
+          <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="50"><br>
+          <strong>Generative AI</strong>
+        </td>
+        <td align="center">
+          <img src="https://cdn-icons-png.flaticon.com/512/727/727269.png" width="50"><br>
+          <strong>Audio Processing</strong>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+
+### 🔊 SSGCam: 실시간 보이스피싱 & 딥보이스 탐지 시스템
+**2024.03 - 2024.06 | AI 리드 엔지니어 & 프로젝트 리더**
+
+<table width="100%">
+  <tr>
+    <td align="center" width="150"><strong>🏗️ 아키텍처</strong></td>
+    <td width="650">GCP 환경에서 Whisper STT + Sentence Transformer + CNN-BiLSTM 하이브리드 모델 설계</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔄 데이터 처리</strong></td>
+    <td>역번역(Back-translation) + 시나리오 기반 텍스트 생성으로 독자적 데이터 증강 기법 구현</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>☁️ MLOps</strong></td>
+    <td>Vertex AI를 활용한 전체 자동화 파이프라인 구축</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🏆 성과</strong></td>
+    <td><strong>F1-score 0.91</strong> 달성, <strong>SW 인재 페스티벌 최우수상</strong> 수상</td>
+  </tr>
+</table>
+
+### 🤖 외국인 유학생을 위한 RAG 기반 AI 챗봇
+**2024.12 | AI 엔지니어**
+
+<table width="100%">
+  <tr>
+    <td align="center" width="150"><strong>🌍 다국어 처리</strong></td>
+    <td width="650">Papago API + Hugging Face Sentence-Transformer 활용</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔍 RAG 시스템</strong></td>
+    <td>Facebook RAG 모델로 비정형 학사 데이터 검색-생성 파이프라인 구현</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📈 성과</strong></td>
+    <td>기존 키워드 매칭 대비 <strong>정확도 18% 향상</strong>, SW-AI 해커톤 장려상</td>
+  </tr>
+</table>
+
+### 👗 퍼스널컬러 진단 & 상의 추천 시스템
+**2024.11 - 2024.12 | AI 엔지니어**
+
+<table width="100%">
+  <tr>
+    <td align="center" width="150"><strong>👁️ 컴퓨터 비전</strong></td>
+    <td width="650">OpenCV + MediaPipe Face Mesh로 얼굴 랜드마크 추출</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🧠 딥러닝</strong></td>
+    <td>VGG16 Transfer Learning 적용한 퍼스널컬러 분류 모델</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📊 성과</strong></td>
+    <td>학습 정확도 <strong>98.93%</strong>, 검증 정확도 <strong>86.37% 달성</strong></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  <h2>💼 Research Experience</h2>
+
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td align="center" width="100"><strong>🏥</strong></td>
+        <td align="left" width="400">
+          <strong>성균관대학교 Medical Big Data LAB</strong><br>
+          <em>인턴 연구원 | 2024.05 - 2024.12</em>
+        </td>
+        <td align="left" width="500">DeepLabv3 활용 Semantic Segmentation 및 GAN 기반 데이터 증강 프로젝트 참여</td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🤖</strong></td>
+        <td align="left">
+          <strong>세종대학교 TEED AI LAB</strong><br>
+          <em>학부 연구생 | 2023.05 - 2023.12</em>
+        </td>
+        <td align="left">CNN-BiLSTM 하이브리드 모델로 보행 데이터 압력 센서 결손치 보간, <strong>기존 RNN 대비 정확도 7.69배 향상</strong></td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🔧</strong></td>
+        <td align="left">
+          <strong>세종대학교 PRML AI LAB</strong><br>
+          <em>학부 연구생 | 2022.07 - 2022.12</em>
+        </td>
+        <td align="left">GAN 기반 데이터 증강 + U-Net을 활용한 PCB 기판 미세 결함 탐지</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
 <div align="center">
   <h2>💻 Tech Stack & Tools</h2>
 </div>
@@ -97,50 +265,107 @@
   </tbody>
 </table>
 
+---
 
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
- 
-  <table>
-    <tbody><tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=withmochaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmochaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages">
-      </td>
-    </tr>
-  </tbody></table>
- 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=withmochaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF" width="70%" alt="GitHub Streak">
- 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=withmochaa&theme=react-dark&hide_border=true&line=58A6FF&color=58A6FF" width="90%" alt="Activity Graph">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=withmochaa&theme=nord&margin-w=15" alt="GitHub Trophies">
+  <h2>🎯 Leadership & Activities</h2>
+  
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td align="center" width="250">🏛️ <strong>학생회장</strong></td>
+        <td align="center" width="550">세종대학교 인공지능학과</td>
+        <td align="center" width="200"><strong>2022.01 - 2022.12</strong></td>
+      </tr>
+      <tr>
+        <td align="center" width="250">🤝 <strong>대외협력국장</strong></td>
+        <td align="center" width="550">세종대학교 소프트웨어융합대학</td>
+        <td align="center" width="200"><strong>2022.01 - 2023.12</strong></td>
+      </tr>
+      <tr>
+        <td align="center" width="250">👨‍🏫 <strong>AI Maker 단장</strong></td>
+        <td align="center" width="550">시립 서울 청소년센터</td>
+        <td align="center" width="200"><strong>2024.02 - 2024.12</strong></td>
+      </tr>
+      <tr>
+        <td align="center" width="250">🔗 <strong>대외협력팀장</strong></td>
+        <td align="center" width="550">연세대학교 빅데이터 연합동아리 BOAZ</td>
+        <td align="center" width="200"><strong>2024.11 - 2025.07</strong></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
 
 
 
 ---
 
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
 
+  <table>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=withmochaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" width="400">
+        </td>
+        <td align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withmochaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="350">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=withmochaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF" width="70%" alt="GitHub Streak">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=withmochaa&theme=react-dark&hide_border=true&line=58A6FF&color=58A6FF" width="90%" alt="Activity Graph">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=withmochaa&theme=nord&margin-w=15" alt="GitHub Trophies">
+</div>
+
+---
 
 <div align="center">
   <h2>📫 Connect With Me</h2>
-  <p>
-  <a href="mailto:dryeye3011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://proximal-gargoyle-8a2.notion.site/AI-engineer-with-technology-and-inclusive-leadership-1060017662cb80be8d00f5896d6e1687?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=withmochaa&style=flat-square&color=blue" alt="Profile Views">
-<details>
-  <summary><b>✨ Fun Fact</b></summary>
+  
   <br>
-  <p><i>"The best way to predict the future is to invent it." – Alan Kay</i></p>
-</details>
+  
+  <img src="https://komarev.com/ghpvc/?username=withmochaa&style=flat-square&color=58A6FF" alt="Profile Views">
+  
+  <br><br>
+  
+  <p>
+    <a href="mailto:dryeye3011@gmail.com">
+      <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/withmochaa">
+      <img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://proximal-gargoyle-8a2.notion.site/AI-engineer-with-technology-and-inclusive-leadership-1060017662cb80be8d00f5896d6e1687?source=copy_link" target="_blank">
+      <img src="https://img.shields.io/badge/📝%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio">
+    </a>
+  </p>
+  
+  <br>
+  
+  <details>
+    <summary><b>🔥 My Beliefs 🔥</b></summary>
+    <br>
+    <blockquote>
+      <p><em>"끝까지 포기하지 않는 도전 정신으로 AI 기술의 한계를 뛰어넘겠다!" 💪</em></p>
+    </blockquote>
+  </details>
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🚀;Always+learning+something+new!+💡;Let's+connect+and+collaborate!+🤝" alt="Typing SVG" />
 </div>
+
+
+
+
+
+
+
