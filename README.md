@@ -300,7 +300,7 @@
         <td align="center" width="200"><strong>2024.02 - 2024.12</strong></td>
       </tr>
       <tr>
-        <td align="center" width="250">🔗 <strong>대외협력팀장</strong></td>
+        <td align="center" width="250">🐘 <strong>대외협력팀장</strong></td>
         <td align="center" width="550">연세대학교 빅데이터 연합동아리 BOAZ</td>
         <td align="center" width="200"><strong>2024.11 - 2025.07</strong></td>
       </tr>
