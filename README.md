@@ -188,6 +188,30 @@
 
 <br>
 
+### 🏭 인공지능 비전 기반 제조 데이터 자동화 플랫폼 기술 개발
+**2022.07 - 2022.12 | AI 연구원**
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle" width="150"><strong>🔧 연구 목적</strong></td>
+    <td width="650" valign="middle">에어컨 제조용 PCB 기판의 결함 탐지를 위한 AI 기반 Anomaly Detection 시스템 개발</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>🧠 AI 모델</strong></td>
+    <td valign="middle">GAN 기반 Data Augmentation + U-Net 모델을 활용한 고정밀 Segmentation 구현</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>📸 컴퓨터 비전</strong></td>
+    <td valign="middle">OpenCV 활용 이미지 전처리 및 Contour 기반 윤곽선 추출 파이프라인 구축</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>🏆 성과</strong></td>
+    <td valign="middle">소량의 결함 샘플로도 모델 일반화 성능 크게 향상, <strong>기존 수작업 대비 결함 검출 정확도 개선</strong></td>
+  </tr>
+</table>
+
+<br>
+
 ### 📊 교차 센서값을 갖는 LSTM 기반 압력 센서 데이터 보간 시스템
 **2024.05 - 2024.12 | AI 연구원**
 
@@ -395,6 +419,7 @@
   </details>
   
 </div>
+
 
 
 
