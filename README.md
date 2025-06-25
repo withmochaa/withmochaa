@@ -186,6 +186,30 @@
   </tr>
 </table>
 
+<br>
+
+### 📊 교차 센서값을 갖는 LSTM 기반 압력 센서 데이터 보간 시스템
+**2024.05 - 2024.12 | AI 연구원**
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle" width="150"><strong>🔬 연구 목적</strong></td>
+    <td width="650" valign="middle">보행(GAIT) 중 압력센서 오작동 및 통신오류로 인한 데이터 누락 문제 해결</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>🧠 AI 모델</strong></td>
+    <td valign="middle">CNN과 BiLSTM을 결합한 하이브리드 Interpolation Model 설계 및 구현</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>📈 데이터 분석</strong></td>
+    <td valign="middle">히트맵 기반 상관관계 분석 및 시각화를 통한 유의미한 데이터 특성 선별</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>🏆 성과</strong></td>
+    <td valign="middle">왼쪽 발 FSR 데이터 보간에서 기존 CNN/RNN 단일 모델 대비 <strong>최대 7.69배 정확도 향상</strong></td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -366,13 +390,11 @@
     <summary><b>🔥 My Beliefs 🔥</b></summary>
     <br>
     <blockquote>
-      <p><em>"끝까지 포기하지 않는 도전 정신으로 AI 기술의 한계를 뛰어넘겠다!" 💪</em></p>
+      <p><em>"세상의 문제에 AI로 답하고, 사람과 기술, 그리고 기업을 잇는 새로운 길을 제시하자!." 💪</em></p>
     </blockquote>
   </details>
   
 </div>
-
-
 
 
 
