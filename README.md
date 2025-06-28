@@ -414,7 +414,7 @@
     <summary><b>🔥 My Beliefs 🔥</b></summary>
     <br>
     <blockquote>
-      <p><em>"세상의 문제에 AI로 답하고, 사람과 기술, 그리고 기업을 잇는 새로운 길을 제시하자!." 💪</em></p>
+      <p><em>"세상의 문제에 AI로 답하고, 사람과 기술, 그리고 기업을 잇는 새로운 길을 제시할 수 있는 엔지니어가 되자!." 💪</em></p>
     </blockquote>
   </details>
   
