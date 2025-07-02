@@ -162,7 +162,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle"><strong>📈 성과</strong></td>
-    <td valign="middle">기존 키워드 매칭 대비 <strong>정확도 18% 향상</strong>, SW-AI 해커톤 장려상</td>
+    <td valign="middle">Semantic Chunking을 사용, 기존 키워드 매칭 대비 <strong>정확도 18% 향상</strong>, SW-AI 해커톤 장려상</td>
   </tr>
 </table>
 
