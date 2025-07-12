@@ -15,8 +15,8 @@
     <strong>교내외에서 검증받은 주니어 AI 엔지니어</strong>로서, Cloud(GCP) 환경에서 데이터 전처리부터 모델 서빙까지<br>
     <strong>End-to-End MLOps 파이프라인</strong>을 설계하고 구축한 경험이 있습니다.<br><br>
     자연어 처리와 음성 처리 분야에서 실제 비즈니스 문제를 해결하는 AI 솔루션 개발에 열정을 가지고 있으며,<br>
-    특히 <strong>보이스피싱 & 딥보이스 탐지</strong>, <strong>RAG 기반 챗봇</strong>, <strong>퍼스널컬러 진단</strong> 등<br>
-    실생활에 직접적인 도움을 주는 AI 서비스 개발에 전문성을 보유하고 있습니다.
+    특히 <strong>FinMem-LLM</strong>, <strong>보이스피싱 & 딥보이스 탐지</strong>, <strong>RAG 기반 챗봇</strong>, <strong>퍼스널컬러 진단</strong> 등<br>
+    실생활에 직접적인 도움을 주는 AI 서비스 개발에 대한 전문성과 경험을 보유하고 있습니다.
   </p>
   
   <table width="100%">
@@ -124,8 +124,31 @@
 <div align="center">
   <h2>🚀 Featured Projects</h2>
 
-### 🔊 SSGCam: 실시간 보이스피싱 & 딥보이스 탐지 애플리케이션
-**2024.03 - 2024.06 | AI 리드 엔지니어 & 프로젝트 리더**
+<h3>📈 FinMem-LLM: 자기반성 및 법률 자문 AI 주식 트레이딩 에이전트</h3>
+<strong>2025.01 - 2025.07 | AI 엔지니어</strong>
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle" width="150"><strong>🤖 에이전트 아키텍처</strong></td>
+    <td width="650" valign="middle">Multi-Persona(가치/성장/기술 분석가, CIO) 투자 위원회 및 자기반성(Self-Reflection) 학습 루프 설계</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>⚖️ RAG & 법률 자문</strong></td>
+    <td valign="middle">법률 문서 기반 Vector DB를 구축, RAG를 통해 LLM의 의사결정에 법적/규제적 리스크 분석 기능 추가</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>💡 프롬프트 엔지니어링</strong></td>
+    <td valign="middle">Persona Pattern, Chain of Thought, Structured Output(Guardrails) 등 다단계 프롬프트 파이프라인 구현</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>🏆 주요 성과</strong></td>
+    <td valign="middle">복잡한 금융 데이터와 법률 규정을 동시에 이해하여, 현실적인 제약조건 하에 투자 결정을 내리는 에이전트 구현</td>
+  </tr>
+</table>
+
+<br>
+<h3>🔊 SSGCam: 실시간 보이스피싱 & 딥보이스 탐지 애플리케이션</h3>
+<strong>2024.03 - 2024.06 | AI 리드 엔지니어 & 프로젝트 리더</strong>
 
 <table width="100%">
   <tr>
@@ -148,8 +171,8 @@
 
 <br>
 
-### 🤖 외국인 유학생을 위한 RAG 기반 AI 챗봇
-**2024.12 | AI 리드 엔지니어**
+<h3>🤖 외국인 유학생을 위한 RAG 기반 AI 챗봇</h3>
+2024.12 | AI 리드 엔지니어
 
 <table width="100%">
   <tr>
@@ -168,8 +191,8 @@
 
 <br>
 
-### 👗 퍼스널컬러 진단 & 상의 추천 시스템
-**2024.11 - 2024.12 | AI 리드 엔지니어**
+<h3>👗 퍼스널컬러 진단 & 상의 추천 시스템</h3>
+2024.11 - 2024.12 | AI 리드 엔지니어
 
 <table width="100%">
   <tr>
@@ -188,32 +211,8 @@
 
 <br>
 
-### 🏭 인공지능 비전 기반 제조 데이터 자동화 플랫폼 기술 개발
-**2022.07 - 2022.12 | AI 연구원**
-
-<table width="100%">
-  <tr>
-    <td align="center" valign="middle" width="150"><strong>🔧 연구 목적</strong></td>
-    <td width="650" valign="middle">에어컨 제조용 PCB 기판의 결함 탐지를 위한 AI 기반 Anomaly Detection 시스템 개발</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><strong>🧠 AI 모델</strong></td>
-    <td valign="middle">GAN 기반 Data Augmentation + U-Net 모델을 활용한 고정밀 Segmentation 구현</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><strong>📸 컴퓨터 비전</strong></td>
-    <td valign="middle">OpenCV 활용 이미지 전처리 및 Contour 기반 윤곽선 추출 파이프라인 구축</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><strong>🏆 성과</strong></td>
-    <td valign="middle">소량의 결함 샘플로도 모델 일반화 성능 크게 향상, <strong>기존 수작업 대비 결함 검출 정확도 개선</strong></td>
-  </tr>
-</table>
-
-<br>
-
 ### 📊 교차 센서값을 갖는 LSTM 기반 압력 센서 데이터 보간
-**2024.05 - 2024.12 | AI 연구원**
+2024.05 - 2024.12 | AI 연구원
 
 <table width="100%">
   <tr>
@@ -231,6 +230,30 @@
   <tr>
     <td align="center" valign="middle"><strong>🏆 성과</strong></td>
     <td valign="middle">왼쪽 발 FSR 데이터 보간에서 기존 CNN/RNN 단일 모델 대비 <strong>최대 7.69배 정확도 향상</strong></td>
+  </tr>
+</table>
+
+<br>
+
+### 🏭 인공지능 비전 기반 제조 데이터 자동화 플랫폼 기술 개발
+2022.07 - 2022.12 | AI 연구원
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle" width="150"><strong>🔧 연구 목적</strong></td>
+    <td width="650" valign="middle">에어컨 제조용 PCB 기판의 결함 탐지를 위한 AI 기반 Anomaly Detection 시스템 개발</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>🧠 AI 모델</strong></td>
+    <td valign="middle">GAN 기반 Data Augmentation + U-Net 모델을 활용한 고정밀 Segmentation 구현</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>📸 컴퓨터 비전</strong></td>
+    <td valign="middle">OpenCV 활용 이미지 전처리 및 Contour 기반 윤곽선 추출 파이프라인 구축</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><strong>🏆 성과</strong></td>
+    <td valign="middle">소량의 결함 샘플로도 모델 일반화 성능 크게 향상, <strong>기존 수작업 대비 결함 검출 정확도 개선</strong></td>
   </tr>
 </table>
 
@@ -419,8 +442,3 @@
   </details>
   
 </div>
-
-
-
-
-
