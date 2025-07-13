@@ -134,15 +134,15 @@
   </tr>
   <tr>
     <td align="center" valign="middle"><strong>⚖️ RAG & 법률 자문</strong></td>
-    <td valign="middle">법률 문서 기반 Vector DB를 구축, RAG를 통해 LLM의 의사결정에 법적/규제적 리스크 분석 기능 추가</td>
+    <td valign="middle">국가법령정보센터의 '금융소비자보호법' 원문으로 <strong>FAISS 벡터 DB</strong>를 구축. <strong>다국어 임베딩 모델(ko-sroberta-multitask)</strong>을 활용하여 LLM의 의사결정에 실시간 법률 자문 기능 통합</td>
   </tr>
   <tr>
     <td align="center" valign="middle"><strong>💡 프롬프트 엔지니어링</strong></td>
-    <td valign="middle">Persona Pattern, Chain of Thought, Structured Output(Guardrails) 등 다단계 프롬프트 파이프라인 구현</td>
+    <td valign="middle">Persona Pattern, Self-Reflection 기반 동적 프롬프트, RAG, Structured Output(Guardrails)을 결합한 다단계 추론 파이프라인 설계</td>
   </tr>
   <tr>
     <td align="center" valign="middle"><strong>🏆 주요 성과</strong></td>
-    <td valign="middle">복잡한 금융 데이터와 법률 규정을 동시에 이해하여, 현실적인 제약조건 하에 투자 결정을 내리는 에이전트 구현</td>
+    <td valign="middle">정성적 뉴스 데이터, 정량적 재무 데이터, 비정형 법률 텍스트를 <strong>동시에 이해하고 종합</strong>하여 현실적인 제약조건 하에 투자 결정을 내리는 AI 에이전트 구현</td>
   </tr>
 </table>
 
