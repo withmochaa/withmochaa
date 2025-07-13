@@ -134,7 +134,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle"><strong>⚖️ RAG & 법률 자문</strong></td>
-    <td valign="middle">국가법령정보센터의 '금융소비자보호법' 원문으로 <strong>FAISS 벡터 DB</strong>를 구축. <strong>다국어 임베딩 모델(ko-sroberta-multitask)</strong>을 활용하여 LLM의 의사결정에 실시간 법률 자문 기능 통합</td>
+    <td valign="middle">국가법령정보센터의 '금융소비자보호법' 원문으로 <strong>FAISS 벡터 DB</strong>를 구축. <strong>OpenAI의 고성능 임베딩 모델(text-embedding-ada-002)</strong>을 활용하여 LLM의 의사결정에 실시간 법률 자문 기능 통합</td>
   </tr>
   <tr>
     <td align="center" valign="middle"><strong>💡 프롬프트 엔지니어링</strong></td>
