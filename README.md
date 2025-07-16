@@ -1,12 +1,13 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kang%20Min%20Kim&fontSize=40&animation=fadeIn&fontAlignY=38)
-
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dryeye5631&theme=onedark)](https://solved.ac/dryeye5631/)
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🚀;Always+learning+something+new!+💡;Let's+connect+and+collaborate!+🤝" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <h2>🤖 AI Researchers & Developers</h2>
@@ -405,6 +406,7 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=withmochaa&theme=nord&margin-w=15" alt="GitHub Trophies">
 </div>
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dryeye5631&theme=onedark)](https://solved.ac/dryeye5631/)
 
 ---
 
