@@ -1,7 +1,6 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kang%20Min%20Kim&fontSize=40&animation=fadeIn&fontAlignY=38)
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dryeye5631&theme=onedark)](https://solved.ac/dryeye5631/)
 </div>
 
 <div align="center">
