@@ -402,7 +402,7 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=withmochaa&theme=nord&margin-w=15" alt="GitHub Trophies">
 </div>
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dryeye5631&theme=onedark)](https://solved.ac/dryeye5631/)
+
 
 ---
 
