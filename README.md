@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kang%20Min%20Kim&fontSize=40&animation=fadeIn&fontAlignY=38)
 </div>
 
@@ -9,39 +9,36 @@
 
 
 <div align="center">
-  <h2>🤖 AI Researchers & Developers</h2>
-  
-  <p>
-    <strong>교내외에서 검증받은 주니어 AI 엔지니어</strong>로서, Cloud(GCP) 환경에서 데이터 전처리부터 모델 서빙까지<br>
-    <strong>End-to-End MLOps 파이프라인</strong>을 설계하고 구축한 경험이 있습니다.<br><br>
-    자연어 처리와 음성 처리 분야에서 실제 비즈니스 문제를 해결하는 AI 솔루션 개발에 열정을 가지고 있으며,<br>
-    특히 <strong>FinMem-LLM</strong>, <strong>보이스피싱 & 딥보이스 탐지</strong>, <strong>RAG 기반 챗봇</strong>, <strong>퍼스널컬러 진단</strong> 등<br>
-    실생활에 직접적인 도움을 주는 AI 서비스 개발에 대한 전문성과 경험을 보유하고 있습니다.
-  </p>
-  
-  <table width="100%">
+  <h2>🤖 AI Engineers & Developers</h2>
+
+  <table width="750px">
     <tbody>
       <tr>
         <td align="center" valign="middle" width="70">🏫</td>
-        <td align="left" valign="middle" width="500"><strong>세종대학교 인공지능학과 졸업</strong></td>
+        <td align="left" valign="middle" width="680"><strong>세종대학교 인공지능학과 졸업</strong> (2021.03 ~ 2025.08)</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle" width="70">💼</td>
+        <td align="left" valign="middle" width="680"><strong>MBX AI Adoption Intern</strong> (2025.07.28 ~ 2025.10.27)</td>
       </tr>
       <tr>
         <td align="center" valign="middle" width="70">🔬</td>
-        <td align="left" valign="middle" width="500"><strong>성균관대학교 Medical Big Data LAB 인턴</strong></td>
+        <td align="left" valign="middle" width="680"><strong>성균관대학교 Medical Big Data LAB 인턴</strong> (2024.05 ~ 2024.12)</td>
       </tr>
       <tr>
         <td align="center" valign="middle" width="70">🐘</td>
-        <td align="left" valign="middle" width="500"><strong>연세대학교 빅데이터 연합동아리 BOAZ 대외협력팀장</strong></td>
+        <td align="left" valign="middle" width="680"><strong>연세대학교 빅데이터 연합동아리 BOAZ 대외협력팀장</strong> (2024.11 ~ 2025.07)</td>
       </tr>
       <tr>
         <td align="center" valign="middle" width="70">👨‍🏫</td>
-        <td align="left" valign="middle" width="500"><strong>시립 서울 청소년센터 서울 AI Maker 단장</strong></td>
+        <td align="left" valign="middle" width="680"><strong>시립 서울 청소년센터 서울 AI Maker 단장</strong> (2024.02 ~ 2024.12)</td>
       </tr>
     </tbody>
   </table>
 </div>
 
----
+
+
 
 <div align="center">
   <h2>🏆 Accomplishments & Awards</h2>
