@@ -19,7 +19,7 @@
       </tr>
       <tr>
         <td align="center" valign="middle" width="70">💼</td>
-        <td align="left" valign="middle" width="680"><strong>MBX AI Adoption Intern</strong> (2025.07.28 ~ 2025.10.27)</td>
+        <td align="left" valign="middle" width="680"><strong>MBX AI Adoption Intern</strong> (2025.07.28 ~ )</td>
       </tr>
       <tr>
         <td align="center" valign="middle" width="70">🔬</td>
